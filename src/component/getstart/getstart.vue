@@ -14,7 +14,7 @@
           <a href="https://github.com/alsotang/node-lessons">https://github.com/alsotang/node-lessons</a>
 
 
-         <h4>《ECMAScript 6入门》</h4>
+         <h4>《ECMAScript 6入门》dadasd</h4>
         <a href="http://es6.ruanyifeng.com/">http://es6.ruanyifeng.com/</a>
 
 
